@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JastinXyz)](https://github.com/JastinXyz/JastinXyz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JastinXyz)](https://github.com/anuraghazra/github-readme-stats)
