@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- *My API Documentation: https://jastinch-api.ml/*
+- *My API Documentation: https://api.jastinch.xyz/*
 - *My Youtube Channel: https://youtube.com/c/JastinCh*
-- *Join Discord: https://jastinch-api.ml/discord*
-- *Donate? https://jastinch.xyz/donate.html*
+- *Join Discord: https://api.jastinch.xyz/discord*
+- *Donate? https://api.jastinch.xyz/donate*
 
 <hr> 
 
