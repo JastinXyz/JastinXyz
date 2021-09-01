@@ -7,9 +7,9 @@ Hello, my name is **Jastin**, I am from Indonesia. I'm just a person who wants t
 ### Links
 - Main Website: https://jastinch.xyz
 - API (outdated but there are some that work): https://api.jastinch.xyz
-- New API: [In Progress](https://rest-api.jastinch.xyz)
 - [Youtube](https://youtube.com/c/JastinCh)
 - [NPMJS](https://www.npmjs.com/~jastinlt)
+- [CodeNime](https://codenime.xyz)
 
 <hr>
 
