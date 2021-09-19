@@ -9,7 +9,7 @@ Hello, my name is **Jastin**, I am from Indonesia. I'm just a person who wants t
 - API (outdated but there are some that work): https://api.jastinch.xyz
 - [Youtube](https://youtube.com/c/JastinCh)
 - [NPMJS](https://www.npmjs.com/~jastinlt)
-- [CodeNime](https://codenime.xyz)
+- Currently developing [Euphoria Bot](https://discord.com/oauth2/authorize?client_id=873369990655508501&permissions=8&scope=bot+applications.commands). Multipurpose Discord Bot. [Server](https://discord.gg/djpNExtBZ9)
 
 <hr>
 
