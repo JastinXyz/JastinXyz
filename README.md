@@ -21,6 +21,5 @@ Hello, my name is **Jastin**, I am from **[Indonesia](https://en.m.wikipedia.org
 
 ### My Github Stats 🛠
 [![JastinXyz GitHub stats](https://github-readme-stats.vercel.app/api?username=JastinXyz&show_icons=true&theme=algolia)](https://github.com/JastinXyz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JastinXyz&layout=compact&theme=algolia)](https://github.com/JastinXyz)
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JastinXyz&theme=monokai)](https://github.com/JastinXyz)
 
