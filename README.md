@@ -9,7 +9,7 @@ Hello, my name is **Jastin**, I am from **[Indonesia](https://en.m.wikipedia.org
 - API (outdated): https://api.jastinch.xyz
 - [Youtube](https://youtube.com/c/JastinCh)
 - [NPMJS](https://www.npmjs.com/~jastinlt)
-- Soon [CodeNime](https://github.com/CodeNime)
+- Soon [CodeNime](https://codenime.xyz)
 
 <br>
 
