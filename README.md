@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is <strong>Jastin</strong>, I am from **[Indonesia](https://en.m.wikipedia.org/wiki/Indonesia)**. I'm just a person who wants to learn programming according to my interests.
+Hello, my name is <strong>Jastin, I am from **[Indonesia](https://en.m.wikipedia.org/wiki/Indonesia)**. I'm just a person who wants to learn programming according to my interests.
 
 ### Links
 - Main Website: https://jastinch.xyz
