@@ -8,7 +8,6 @@ Hello, my name is Jastin, I am from **[Indonesia](https://en.m.wikipedia.org/wik
 - [Youtube](https://youtube.com/c/JastinCh)
 - [NPMJS](https://www.npmjs.com/~jastinlt)
 - Soon [CodeNime](https://codenime.xyz)
-
 <br>
 ### My Youtube Stats 🛠
 [![Subscribe My YT](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC6Ih5SSLMP3VqCq0ouwbXJA&key=AIzaSyCwkMvIEdtNea57Y0iCoj0w3vZIdmywsHc&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630)](https://youtube.com/c/JastinCh?sub_confirmation=1)
