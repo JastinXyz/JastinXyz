@@ -4,7 +4,6 @@ Hello, my name is **Jastin**, I am from **[Indonesia](https://en.m.wikipedia.org
 
 ### Links
 - Main Website: https://jastinch.xyz
-- API (outdated): https://api.jastinch.xyz
 - [Youtube](https://youtube.com/c/JastinCh)
 - [NPMJS](https://www.npmjs.com/~jastinlt)
 - Soon [CodeNime](https://codenime.xyz)
