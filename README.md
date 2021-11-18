@@ -2,7 +2,7 @@
 <h3>Hi there 👋</h3>
 Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en.m.wikipedia.org/wiki/Indonesia">Indonesia</a></strong>. I'm just a person who wants to learn programming according to my interests. I started learning coding since 2020.
 
-<h3>Links</h3>
+<h3>Links 🔗</h3>
 <ul>
  <li>Main Website: <a href="https://jastinch.xyz" target="_blank">https://jastinch.xyz</a></li>
  <li><a href="https://youtube.com/c/JastinCh" target="_blank">Youtube</a></li>
