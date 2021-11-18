@@ -1,6 +1,6 @@
 <div align="center">
 <h3>Hi there 👋</h3>
-Hello, my name is **Jastin**, I am from **[Indonesia](https://en.m.wikipedia.org/wiki/Indonesia)**. I'm just a person who wants to learn programming according to my interests. I started learning coding since 2020.
+Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en.m.wikipedia.org/wiki/Indonesia">Indonesia</a></strong>. I'm just a person who wants to learn programming according to my interests. I started learning coding since 2020.
 
 <h3>Links</h3>
 <ul>
@@ -17,3 +17,4 @@ Hello, my name is **Jastin**, I am from **[Indonesia](https://en.m.wikipedia.org
 <h3>My Github Stats 🛠<h3>
  <a href="https://ko-fi.com/jastinch" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=JastinXyz&show_icons=true&theme=algolia"></a>
  <a href="https://ko-fi.com/jastinch" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JastinXyz&theme=monokai"></a>
+</div>
