@@ -13,8 +13,8 @@ Hello, my name is **Jastin**, I am from **[Indonesia](https://en.m.wikipedia.org
 
 [![Subscribe My YT](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC6Ih5SSLMP3VqCq0ouwbXJA&key=AIzaSyCwkMvIEdtNea57Y0iCoj0w3vZIdmywsHc&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630)](https://youtube.com/c/JastinCh?sub_confirmation=1) [![My YT Views Count](https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC6Ih5SSLMP3VqCq0ouwbXJA&key=AIzaSyCwkMvIEdtNea57Y0iCoj0w3vZIdmywsHc&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d)](https://youtube.com/c/JastinCh?sub_confirmation=1)
 
-<h3 style="text-align: center;padding: .7em 45%;">My Github Stats 🛠<h3>
 <p align="center">
- <a href="https://ko-fi.com/jastinch"><img src="https://github-readme-stats.vercel.app/api?username=JastinXyz&show_icons=true&theme=algolia"></a>
- <a href="https://ko-fi.com/jastinch"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JastinXyz&theme=monokai"></a>
+<h3>My Github Stats 🛠<h3>
+ <a href="https://ko-fi.com/jastinch" target="__blank"><img src="https://github-readme-stats.vercel.app/api?username=JastinXyz&show_icons=true&theme=algolia"></a>
+ <a href="https://ko-fi.com/jastinch" target="__blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JastinXyz&theme=monokai"></a>
 </p>
