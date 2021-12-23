@@ -6,7 +6,7 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
  
 <h3>Links 🔗</h3>
 <ul>
- Main Website: <a href="https://jastinch.xyz" target="_blank">https://jastinch.xyz</a><br>
+ Main Website: <a href="https://jstnlt.my.id" target="_blank">https://jstnlt.my.id</a><br>
  <a href="https://youtube.com/c/JastinCh" target="_blank">Youtube</a><br>
 <a href="https://www.npmjs.com/~jastinlt">NPMJS</a><br>
 Soon <a href="https://codenime.xyz">CodeNime</a><br>
