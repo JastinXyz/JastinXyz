@@ -18,3 +18,8 @@ Soon <a href="https://codenime.xyz">CodeNime</a><br>
  <a href="https://ko-fi.com/jastinch" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=JastinXyz&show_icons=true&theme=algolia"></a>
  <a href="https://ko-fi.com/jastinch" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JastinXyz&theme=monokai"></a>
 </div>
+
+ ---
+ ### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
