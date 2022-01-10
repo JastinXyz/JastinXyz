@@ -5,10 +5,11 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
  
 <h2 align="center">Links 🔗</h2>
 <ul>
- Main Website: <a href="https://jstnlt.my.id" target="_blank">https://jstnlt.my.id</a><br>
- <a href="https://youtube.com/c/JastinCh" target="_blank">Youtube</a><br>
-<a href="https://www.npmjs.com/~jastinlt">NPMJS</a><br>
-Soon <a href="https://codenime.xyz">CodeNime</a><br>
+ <li>My Portfolio Website: <a href="https://jstnlt.my.id" target="_blank">https://jstnlt.my.id</a></li>
+ <li>My Project: <a href="https://jstnlt.my.id/#projects" target="_blank">https://jstnlt.my.id/#projects</a></li>
+ <li><a href="https://youtube.com/c/JastinCh" target="_blank">Youtube</a></li>
+ <li><a href="https://www.npmjs.com/~jastinlt">NPMJS</a></li>
+ <li>Donate Me: <a href="https://jstnlt.my.id/donate" target="_blank">https://jstnlt.my.id/donate</a></li>
  </ul>
  
 &nbsp;
