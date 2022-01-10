@@ -1,10 +1,9 @@
-<div align="center">
-<h3>Hi there 👋</h3>
+<h2 align="center">Hi there 👋</h2>
 Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en.m.wikipedia.org/wiki/Indonesia">Indonesia</a></strong>. I'm just a person who wants to learn programming according to my interests. I started learning coding since 2020.
  
 &nbsp;
  
-<h3>Links 🔗</h3>
+<h2 align="center">Links 🔗</h2>
 <ul>
  Main Website: <a href="https://jstnlt.my.id" target="_blank">https://jstnlt.my.id</a><br>
  <a href="https://youtube.com/c/JastinCh" target="_blank">Youtube</a><br>
@@ -14,10 +13,9 @@ Soon <a href="https://codenime.xyz">CodeNime</a><br>
  
 &nbsp;
  
-<h3>My Github Stats 🛠<h3>
+<h2 align="center">My Github Stats 🛠<h2>
  <a href="https://ko-fi.com/jastinch" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=JastinXyz&show_icons=true&theme=algolia"></a>
  <a href="https://ko-fi.com/jastinch" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JastinXyz&theme=monokai"></a>
-</div>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
