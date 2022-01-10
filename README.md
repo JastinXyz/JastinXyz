@@ -7,8 +7,8 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
 <ul>
  <li>My Portfolio Website: <a href="https://jstnlt.my.id" target="_blank">https://jstnlt.my.id</a></li>
  <li>My Project: <a href="https://jstnlt.my.id/#projects" target="_blank">https://jstnlt.my.id/#projects</a></li>
- <li><a href="https://youtube.com/c/JastinCh" target="_blank">Youtube</a></li>
- <li><a href="https://www.npmjs.com/~jastinlt">NPMJS</a></li>
+ <li>Youtube: <a href="https://youtube.com/c/JastinCh" target="_blank">Youtube</a></li>
+ <li>npmjs: <a href="https://www.npmjs.com/~jastinlt" target="_blank">NPMJS</a></li>
  <li>Donate Me: <a href="https://jstnlt.my.id/donate" target="_blank">https://jstnlt.my.id/donate</a></li>
  </ul>
  
