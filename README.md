@@ -20,4 +20,71 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
  <a href="https://jstnlt.my.id/donate" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JastinXyz&theme=monokai"></a>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-180%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 27 Contributions in the Year 2022
+ > 
+> 📦 8.4 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 26 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    337 commits    ███████████░░░░░░░░░░░░░░   47.2% 
+🌆 Daytime    319 commits    ███████████░░░░░░░░░░░░░░   44.68% 
+🌃 Evening    28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
+🌙 Night      30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
+Tuesday      139 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.47% 
+Wednesday    51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Thursday     127 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.79% 
+Friday       123 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.23% 
+Saturday     81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% 
+Sunday       95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               22 repos            █████████████████░░░░░░░░   70.97% 
+EJS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+
+```
+
+
+
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
