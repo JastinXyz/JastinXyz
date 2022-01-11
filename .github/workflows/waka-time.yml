@@ -15,6 +15,7 @@ jobs:
         with:
           SHOW_TITLE: "True"
           COMMIT_BY_ME: "True"
+          COMMIT_MESSAGE: "[ SYSTEM 🤖 ] Updated with Dev Metrics."
           SHOW_LINES_OF_CODE: "True"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
