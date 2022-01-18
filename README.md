@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h2>
 Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en.m.wikipedia.org/wiki/Indonesia">Indonesia</a></strong>. I'm just a person who wants to learn programming according to my interests. I started learning coding since 2020.
-<div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=JastinXyz" alt="profile views"></div>
+<div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=JastinXyz"></div>
  
 &nbsp;
  
