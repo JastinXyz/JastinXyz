@@ -15,6 +15,7 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
  <a href="https://jstnlt.my.id/donate" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=JastinXyz&show_icons=true&theme=algolia"></a>
  <a href="https://jstnlt.my.id/donate" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JastinXyz&theme=monokai"></a>
 
+## Metrics (Runs every 12am UTC)
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-181%20Thousand%20lines%20of%20code-blue)
 
