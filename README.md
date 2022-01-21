@@ -15,13 +15,11 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
  <a href="https://jstnlt.my.id/donate" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JastinXyz&theme=monokai"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2012%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-181%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 63 Contributions in the Year 2022
+> 🏆 64 Contributions in the Year 2022
  > 
 > 📦 8.5 kB Used in GitHub's Storage 
  > 
@@ -43,10 +41,10 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
+Monday       94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
 Tuesday      142 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.19% 
 Wednesday    54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.3% 
-Thursday     133 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
+Thursday     134 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
 Friday       122 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
 Saturday     98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
 Sunday       96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.97%
@@ -87,5 +85,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2022 08:32:48 UTC
+ Last Updated on 21/01/2022 01:12:53 UTC
 <!--END_SECTION:waka-->
