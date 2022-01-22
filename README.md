@@ -1,5 +1,6 @@
 <h2 align="center">Hi there 👋</h2>
 Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en.m.wikipedia.org/wiki/Indonesia">Indonesia</a></strong>. I'm just a person who wants to learn programming according to my interests. I started learning coding since 2020.
+<img src="https://gpvc.jstnlt.my.id/count/JastinXyz">
  <p align="center">
   <strong><a href="https://jstnlt.my.id">Official Website</a></strong> |
   <strong><a href="https://jstnlt.my.id/#projects">My Projects</a></strong> |
