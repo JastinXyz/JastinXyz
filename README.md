@@ -12,5 +12,5 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
 &nbsp;
  
 <h2 align="center">My Github Stats 🛠</h2>
- <a href="https://jstnlt.my.id/donate" target="_blank"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JastinXyz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"></a>
- <a href="https://jstnlt.my.id/donate" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JastinXyz&layout=compact&theme=buefy"></a>
+ <a href="https://jstnlt.my.id/donate" target="_blank"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JastinXyz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"></a>
+ <a href="https://jstnlt.my.id/donate" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JastinXyz&layout=compact&theme=buefy"></a>
