@@ -12,7 +12,7 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
 &nbsp;
 
  <p align="center">
-  <a href="https://jstnlt.my.id">Official Website</a> |
+  <a href="https://jstnlt.my.id">Website</a> |
   <a href="https://jstnlt.my.id/#projects">My Projects</a> |
   <a href="https://youtube.com/c/JastinCh">YouTube</a> |
   <a href="https://www.npmjs.com/~jastinlt">npmjs</a> |
