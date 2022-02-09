@@ -12,9 +12,9 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
 &nbsp;
 
  <p align="center">
-  <strong><a href="https://jstnlt.my.id">Official Website</a></strong> |
-  <strong><a href="https://jstnlt.my.id/#projects">My Projects</a></strong> |
-  <strong><a href="https://youtube.com/c/JastinCh">YouTube</a></strong> |
-  <strong><a href="https://www.npmjs.com/~jastinlt">npmjs</a></strong> |
-  <strong><a href="https://jstnlt.my.id/donate">Donate Me</a></strong>
+  <a href="https://jstnlt.my.id">Official Website</a> |
+  <a href="https://jstnlt.my.id/#projects">My Projects</a> |
+  <a href="https://youtube.com/c/JastinCh">YouTube</a> |
+  <a href="https://www.npmjs.com/~jastinlt">npmjs</a> |
+  <a href="https://jstnlt.my.id/donate">Donate Me</a>
 </p>
