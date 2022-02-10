@@ -4,8 +4,8 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
 <h2 align="center">My Github Stats 🛠</h2>
  <p align="center">
  <a href="https://jstnlt.my.id/donate" target="_blank">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JastinXyz&show_icons=true&theme=buefy&include_all_commits=false&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JastinXyz&layout=compact&theme=buefy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JastinXyz&show_icons=true&theme=dracula&include_all_commits=false&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JastinXyz&layout=compact&theme=dracula">
  </a>
  </p>
 
