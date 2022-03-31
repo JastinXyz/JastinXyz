@@ -9,8 +9,6 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
  </a>
  </p>
 
-&nbsp;
-
  <p align="center">
   <a href="https://jstnlt.my.id">Website</a> |
   <a href="https://jstnlt.my.id/#projects">My Projects</a> |
