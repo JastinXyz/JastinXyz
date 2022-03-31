@@ -10,9 +10,8 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
  </p>
 
  <p align="center">
-  <a href="https://jstnlt.my.id">Website</a> |
-  <a href="https://jstnlt.my.id/#projects">My Projects</a> |
-  <a href="https://youtube.com/c/JastinCh">YouTube</a> |
-  <a href="https://www.npmjs.com/~jastinlt">npmjs</a> |
-  <a href="https://jstnlt.my.id/donate">Donate Me</a>
+  <a href="https://jstnlt.my.id"><strong>Website</strong></a> •
+  <a href="https://jstnlt.my.id/#projects"><strong>My Projects</strong></a> •
+  <a href="https://youtube.com/c/JastinCh"><strong>YouTube</strong></a> •
+  <a href="https://jstnlt.my.id/donate"><strong>Donate Me</strong></a>
 </p>
