@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋</h2>
-Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en.m.wikipedia.org/wiki/Indonesia">Indonesia</a></strong>. I'm just a person who wants to learn programming according to my interests. I started learning coding since 2020. Contact me at <a href="mailto:contact@jstnlt.my.id">contact@jstnlt.my.id</a>
+Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en.m.wikipedia.org/wiki/Indonesia">Indonesia</a></strong>. I'm just a person who wants to learn programming according to my interests. I started learning coding since 2020.
 
 <h2 align="center">My Github Stats 🛠</h2>
  <p align="center">
