@@ -7,8 +7,6 @@ Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JastinXyz&show_icons=true&theme=dracula&include_all_commits=false&count_private=true">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JastinXyz&layout=compact&theme=dracula">
   
-  ![Metrics](https://metrics.lecoq.io/JastinXyz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&notable=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FJakarta)
-  
  </a>
  </p>
 
