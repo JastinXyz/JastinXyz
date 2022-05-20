@@ -1,5 +1,8 @@
 <h2 align="center">Hi there 👋</h2>
-Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en.m.wikipedia.org/wiki/Indonesia">Indonesia</a></strong>. I'm just a person who wants to learn programming according to my interests. I started learning coding since 2020. I'm currently active in the **[whatscode.js](https://github.com/JastinXyz/whatscode.js)** project. A package to make Whatsapp bots very easy and fast... Even coding experience is not really needed.
+Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en.m.wikipedia.org/wiki/Indonesia">Indonesia</a></strong>. I'm just a person who wants to learn programming according to my interests. I started learning coding since 2020.
+<br/><br/>
+
+I'm currently active in the **[whatscode.js](https://github.com/JastinXyz/whatscode.js)** project. A package to make Whatsapp bots very easy and fast... Even coding experience is not really needed.
 
 <h2 align="center">My Github Stats 🛠</h2>
  <p align="center">
