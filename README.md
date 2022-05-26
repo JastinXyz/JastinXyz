@@ -7,8 +7,8 @@ I'm currently active in the **[whatscode.js](https://github.com/JastinXyz/whatsc
 <h2 align="center">My Github Stats 🛠</h2>
  <p align="center">
  <a href="https://jstnlt.my.id/donate" target="_blank">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JastinXyz&show_icons=true&theme=dracula&include_all_commits=false&count_private=true">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JastinXyz&layout=compact&theme=dracula">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JastinXyz&show_icons=true&theme=dracula&include_all_commits=false&count_private=true&hide_border=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JastinXyz&layout=compact&theme=dracula&hide_border=true">
   
  </a>
  </p>
