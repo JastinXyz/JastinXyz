@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Jastin 👋</h2>
+<h2 align="center">Hi there, I'm Jastin 👋🏼</h2>
 
 <!--
 <p align="center">Hello, my name is <strong>Jastin</strong>, I am from <strong><a href="https://en.m.wikipedia.org/wiki/Indonesia">Indonesia</a></strong>. I'm just a person who wants to learn programming according to my interests. I started learning coding since 2020.</p>
