@@ -14,9 +14,11 @@
 -->
  
 <div align="center">
-
+ 
 ![Metrics](/github-metrics.svg)
  
+[![Discord Presence](https://lanyard.cnrad.dev/api/490288214972825600)](https://discord.com/users/490288214972825600)
+
 </div>
 
 <hr/>
