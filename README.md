@@ -17,15 +17,13 @@
  
 ![Metrics](/github-metrics.svg)
  
-[![Discord Presence](https://lanyard.cnrad.dev/api/490288214972825600)](https://discord.com/users/490288214972825600)
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/490288214972825600)](https://discord.com/users/490288214972825600) -->
 
 </div>
 
 <hr/>
 
  <p align="center">
-  <a href="https://jstnlt.my.id"><strong>Website</strong></a> •
-  <a href="https://jstnlt.my.id/#projects"><strong>My Projects</strong></a> •
-  <a href="https://youtube.com/c/JastinCh"><strong>YouTube</strong></a> •
-  <a href="https://jstnlt.my.id/donate"><strong>Donate Me</strong></a>
+  <a href="https://jstnlt.my.id"><strong>Portfolio</strong></a> •
+  <a href="https://youtube.com/c/JastinCh"><strong>YouTube</strong></a>
 </p>
