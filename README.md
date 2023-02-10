@@ -25,5 +25,6 @@
 
  <p align="center">
   <a href="https://jstnlt.my.id"><strong>Portfolio</strong></a> •
+  <a href="https://instagram.com/jstn.lt"><strong>Instagram</strong></a> •
   <a href="https://youtube.com/c/JastinCh"><strong>YouTube</strong></a>
 </p>
