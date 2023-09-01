@@ -22,8 +22,8 @@
 </div>
 
 <hr/>
-<p align="center">
-  <a href="https://jstnlt.my.id"><strong>Portfolio</strong></a> -
-  <a href="https://instagram.com/jstn.lt"><strong>Instagram</strong></a> -
-  <a href="https://youtube.com/c/JastinCh"><strong>YouTube</strong></a>
-</p>
+<div align="center">
+  <a href="https://jstnlt.my.id"><img src="https://img.shields.io/badge/jstnlt.my.id-000000?style=for-the-badge&logo=about.me&logoColor=white"/></a> &nbsp;
+  <a href="https://instagram.com/jstn.lt"><img src="https://img.shields.io/badge/@jstn.lt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp;
+  <a href="https://youtube.com/c/JastinCh"><img src="https://img.shields.io/badge/@jastinch-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</div>
