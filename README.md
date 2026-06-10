@@ -1,6 +1,6 @@
 ### Jastin Linggar Tama 👋
 
-💻 Software Engineer · Web Development
+💻 Software Engineer · Web Development<br>
 📍 Purwokerto, Indonesia
 
 Building production-ready web applications since 2020. I focus on writing clean, scalable code and shipping things that actually work.
