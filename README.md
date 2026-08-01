@@ -7,11 +7,12 @@ Building production-ready web applications since 2020. I focus on writing clean,
 
 #### 🚀 Featured Projects
 
-- 🎮 **[Katla Discord](https://top.gg/bot/1089062830243856425)** · Indonesian word game Discord bot with Daily, Battle, and Time Attack modes · used in `600+` servers
-- 🌐 **[discord-bot-landing-page-web](https://github.com/JastinXyz/discord-bot-landing-page-web)** · Free Discord bot landing page template · `121` ⭐
+- 🎮 **[Katla Discord](https://top.gg/bot/1089062830243856425)** · Indonesian word game Discord bot with Daily, Battle, and Time Attack modes · used in `700+` servers
+- 🌐 **[discord-bot-landing-page-web](https://github.com/JastinXyz/discord-bot-landing-page-web)** · Free Discord bot landing page template · `122` ⭐
 - 💬 **[@mengkodingan/ckptw](https://github.com/Mengkodingan/ckptw)** · Framework to build powerful WhatsApp bots easily · `86` ⭐
 - 📦 **[s3-explorer](https://github.com/JastinXyz/s3-explorer)** · Modern open-source web file manager for S3-compatible storage
 - 🎫 **[github-boardingpass](https://github.com/JastinXyz/github-boardingpass)** · Your GitHub profile as an RPG-style developer boarding pass
+- 📨 **[fana](https://github.com/JastinXyz/fana)** · Self-hostable disposable email with a realtime inbox and an API for your tests
 
 #### 📫 Get in touch
 
