@@ -15,4 +15,4 @@ Building production-ready web applications since 2020. I focus on writing clean,
 
 #### 📫 Get in touch
 
-🌐 [jstnlt.my.id](https://jstnlt.id) · 💼 [LinkedIn](https://linkedin.com/in/jastinlinggartama) · ✉️ [jastinlinggar@gmail.com](mailto:jastinlinggar@gmail.com)
+🌐 [jstnlt.id](https://jstnlt.id) · 💼 [LinkedIn](https://linkedin.com/in/jastinlinggartama) · ✉️ [jastinlinggar@gmail.com](mailto:jastinlinggar@gmail.com)
